@@ -12,3 +12,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.User-star {
+  border: 4px dashed gold;
+  border-radius: 10px;
+}
